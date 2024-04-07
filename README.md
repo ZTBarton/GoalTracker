@@ -13,8 +13,14 @@ Includes SwiftData models for Goals, Catgories, and Journal entries.
 
 ##### Showcase:
 
-<img src="images/IMG_0091.PNG" alt="alt text" width="400"/> <img src="images/IMG_0092.PNG" alt="alt text" width="400"/>
+<img src="images/IMG_0091.PNG" alt="alt text" width="800"/> 
 <br />
-<img src="images/IMG_0093.PNG" alt="alt text" width="400"/> <img src="images/IMG_0094.PNG" alt="alt text" width="400"/>
+<img src="images/IMG_0092.PNG" alt="alt text" width="800"/>
 <br />
-<img src="images/IMG_0095.PNG" alt="alt text" width="400"/> <img src="images/IMG_A1EB6A192A7D-1.jpeg" alt="logo" width="200"/>
+<img src="images/IMG_0093.PNG" alt="alt text" width="800"/> 
+<br />
+<img src="images/IMG_0094.PNG" alt="alt text" width="800"/>
+<br />
+<img src="images/IMG_0095.PNG" alt="alt text" width="800"/>
+<br />
+<img src="images/IMG_A1EB6A192A7D-1.jpeg" alt="logo" width="200"/>
