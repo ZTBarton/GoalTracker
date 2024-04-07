@@ -17,4 +17,4 @@ Includes SwiftData models for Goals, Catgories, and Journal entries.
 <br />
 <img src="images/IMG_0093.PNG" alt="alt text" width="400"/> <img src="images/IMG_0094.PNG" alt="alt text" width="400"/>
 <br />
-<img src="images/IMG_0095.PNG" alt="alt text" width="400"/> <img src="images/IMG_A1EB6A192A7D-1.jpeg" alt="logo" width="400"/>
+<img src="images/IMG_0095.PNG" alt="alt text" width="400"/> <img src="images/IMG_A1EB6A192A7D-1.jpeg" alt="logo" width="200"/>
