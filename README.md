@@ -1,7 +1,7 @@
 #  Goal Tracker (iOS, SwiftUI, and SwiftData)
 
 A goal tracking app that I built in 3 hours!
-Includes SwiftData models for Goals, Catgories, and Journal entries.
+Includes SwiftData models for Goals, Catagories, and Journal entries.
 
 ### Notable features:
 * Save and view goals.
